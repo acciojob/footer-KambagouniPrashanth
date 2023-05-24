@@ -28,6 +28,9 @@
     color:white;
     font-size: 25px;
 }
+.link-boxes a:hover{
+    border-bottom:2px solid white;
+}
 .bottom-details{
     display: flex;
     flex-wrap: wrap;
